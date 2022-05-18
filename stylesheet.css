@@ -138,8 +138,9 @@ button:active {
 
 .title-section h3 {
   background-color: #3f4d79;
+  /* width: 100%; */
   width: 150px;
-  height: 65px;
+  height: 60px;
   font-size: 24px;
   color: white;
   box-shadow: 5px 5px black;
