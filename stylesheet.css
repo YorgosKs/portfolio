@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #62e5c6;
+  scroll-behavior: smooth;
 }
 
 .root {
@@ -191,7 +192,8 @@ button:active {
 }
 
 .cards img {
-  width: 400px;
+  /* width: 400px; */
+  width: auto;
   margin-left: 40px;
   margin-top: 10px;
 }
